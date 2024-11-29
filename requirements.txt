@@ -1,0 +1,9 @@
+tensorflow-macos==2.18.0
+tensorflow-metal==1.16.0
+pillow
+numpy
+opencv-python
+h5py
+mediapipe
+PyYAML
+tqdm
