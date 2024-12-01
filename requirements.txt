@@ -1,9 +1,8 @@
-tensorflow-macos==2.18.0
-tensorflow-metal==1.16.0
-pillow
-numpy
-opencv-python
-h5py
-mediapipe
-PyYAML
-tqdm
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+numpy==1.21.2
+matplotlib==3.5.1
+Pillow==9.0.1
+tqdm==4.62.3
+argparse==1.4.0
